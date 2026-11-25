@@ -48,7 +48,6 @@ Constructed during a period of late-2025 macroeconomic transition—characterize
 | **Duolingo** | `DUOL` | 4 | £220.64 | £205.75 | £882.56 | 8.82% | £823.00 | -£59.56 | **-6.75%** |
 | **Total Portfolio** | — | — | — | — | **£10,000.42** | **100.00%** | **£13,405.53** | **+£3,405.11** | **+34.05%** |
 
-*(Note: Minor £0.36 variance between the initial execution ledger of £10,000.42 and the report summary table of £10,000.78 reflects FX rounding on the UBER position.)*
 
 ---
 
